@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to contribute in opensource projects and development
 - 🌱 I’m currently learning DSA using java
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me through my LinkedIn : www.linkedin.com/in/abhishekmunda
+- 📫 How to reach me? Well! Connect with me through LinkedIn : www.linkedin.com/in/abhishekmunda
 
 <!---
 abhishek-munda/abhishek-munda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
